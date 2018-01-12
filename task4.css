@@ -1,0 +1,85 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	height: 3rem;
+	line-height: 3rem;
+	text-align: center;
+	background-color: #5fc0cd;
+	color: white;
+	padding:0 8px;
+}
+body{
+	background-color: #eff0f4;
+}
+a{
+	text-decoration: none;
+	color:white;
+	font-size: 14px;
+}
+.zhuce{
+	float: left;
+}
+.guanbi{
+	float: right;
+}
+.biankuang1{
+	height: 43px;
+	margin: 5px auto;
+	background-color: white;
+}
+div .tupian1{
+	height: 23px;
+	width: 15px;
+	padding: 10px 14px;
+}
+.wenbenkuang1{
+	height: 30px;
+	line-height: 30px;
+	width:auto;
+	border:none;
+	vertical-align:17px;
+	outline:none;
+	border-left:1px solid #5fc0cd;
+
+
+}
+.biankuang2{
+	height: 43px;
+	margin: 5px auto;
+	background-color: white;
+}
+div .tupian2{
+	height: 23px;
+	width: 15px;
+	padding: 10px 14px;
+}
+.wenbenkuang2{
+	height: 30px;
+	line-height: 30px;
+	width:auto;
+	border:none;
+	vertical-align:17px;
+	outline:none;
+	border-left:1px solid #5fc0cd;
+}
+.button{
+	width: 100%;
+	height: 3rem;
+	line-height: 3rem;
+	text-align: center;
+	color: white;
+	background-color: #5fc0cd;
+	outline:none;
+	border-style: none;
+	margin-top: 30px;
+	font-size: 18px;
+	letter-spacing: 10px;
+	font-style: normal;
+}
+.wangjimima{
+	color: #5fc0cd;
+	margin: 10px;
+	float: right;
+}
