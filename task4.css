@@ -34,16 +34,18 @@ div .tupian1{
 	width: 15px;
 	padding: 10px 14px;
 }
+.placeholder{
+	color: gray;
+}
 .wenbenkuang1{
 	height: 30px;
 	line-height: 30px;
-	width:auto;
+	width: 220px;
 	padding-left: 20px;
 	border:none;
 	vertical-align:17px;
 	outline:none;
 	border-left:1px solid #eff0f4;
-	color: grey;
 }
 .biankuang2{
 	height: 43px;
@@ -58,7 +60,7 @@ div .tupian2{
 .wenbenkuang2{
 	height: 30px;
 	line-height: 30px;
-	width:auto;
+	width: 220px;
 	border:none;
 	vertical-align:17px;
 	outline:none;
